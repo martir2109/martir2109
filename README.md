@@ -37,7 +37,7 @@ My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
     <source 
       media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=default" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=default" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=default" />
   </picture>
 </a>
 
@@ -49,7 +49,7 @@ My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
     <source 
       media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&layout=compact&theme=default" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&layout=compact&theme=default" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&layout=compact&theme=default" />
   </picture>
 </a>
 
