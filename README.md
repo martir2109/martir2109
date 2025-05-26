@@ -30,6 +30,5 @@ My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 ## My GitHub History
 <div display="flex">
 [![martir2109's GitHub stats](https://github-readme-stats.vercel.app/api?username=martir2109)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109)](https://github.com/anuraghazra/github-readme-stats)
 </div>
