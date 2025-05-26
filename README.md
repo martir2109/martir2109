@@ -15,7 +15,7 @@ My name is Martine! I am 23 years old from Oslo, Norway.
 
 
 ## A little bit about me
-🕹️ I love playing video games, I am especcilay a huge The last of us 1 and 2.
+🕹️ I love playing video games, especially The Last of Us 1 and 2. You'll find me playing these two games multiple times a year.
 ![Gif of Ellie and Joel from the game The Last of Us 1](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyY3dteXAwOXhpamVzbWxyeml6dDBnYmQxZXNqNTNwOWw1eW0waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t5upbzp8awDW1IpCXy/giphy.gif)
 
 
