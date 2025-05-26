@@ -29,9 +29,15 @@ My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 
 ## My GitHub History
 
-<a href="https://github.com/martir2109/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/martir2109/github-readme-stats">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=dark" />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=default" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=default" />
+  </picture>
 </a>
-<a href="https://github.com/martir2109/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&layout=compact&gh-dark-mode-only" />
-</a>
+
