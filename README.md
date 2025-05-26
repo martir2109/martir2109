@@ -28,7 +28,6 @@ My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 🎸 I recently decided to learn how to play my favorite song from the game The Last of Us 2, called "Future Days" by Pearl Jam. I’m in the beginning phase, but I’m getting there slowly but surely.
 
 ## My GitHub History
-<div align="center">
 [![martir2109's GitHub stats](https://github-readme-stats.vercel.app/api?username=martir2109)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109)](https://github.com/anuraghazra/github-readme-stats)
-</div>
