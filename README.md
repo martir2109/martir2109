@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Martine! I am 23 years old from Oslo, Norway.
+My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 
 ## Education
 📚 I am currently studying Frontend-development at Noroff School of Technology and Digital Media. 
@@ -14,10 +14,9 @@ My name is Martine! I am 23 years old from Oslo, Norway.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode&perline=4&theme=dark)](https://skillicons.dev)
 
 
-## A little bit about me
+## A little bit about my interests 
 🕹️ I love playing video games, especially The Last of Us 1 and 2. You'll find me playing these two games multiple times a year.
 ![Gif of Ellie and Joel from the game The Last of Us 1](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyY3dteXAwOXhpamVzbWxyeml6dDBnYmQxZXNqNTNwOWw1eW0waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t5upbzp8awDW1IpCXy/giphy.gif)
-
 
 🏃🏼‍♀️ During the past year, I've taken up an interest in running.
 
