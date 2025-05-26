@@ -1,5 +1,6 @@
 # Hi there 👋
 
+<div align="center">
 My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 
 ## Education
@@ -33,4 +34,4 @@ My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
