@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
+### My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 
 ## Education
 #### 📚 I am currently studying Frontend-development at Noroff School of Technology and Digital Media. 
