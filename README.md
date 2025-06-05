@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
 My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 
