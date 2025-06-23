@@ -16,7 +16,7 @@ My name is Martine! I am 23 years old from Oslo, Norway🇳🇴.
 
 
 ## 👩🏼‍💻 Take a look at my portfolio (Spring 2025)
-[Click here to view my portfolio](https://martir2109.github.io/MartineKarlsen_portfolio/)
+[![Click here to view my portfolio](./portfolioPreview.gif)](https://martir2109.github.io/MartineKarlsen_portfolio/)
 
 
 ## 🛠️ Languages and Tools 
