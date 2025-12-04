@@ -4,7 +4,7 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 ## Education
 
-📚 I am currently in my finaø year of the Frontend-development at Noroff School of Technology and Digital Media.
+📚 I am currently in my final year of the Frontend-development at Noroff School of Technology and Digital Media.
 
 🎓 I have completed a 1 year study within UX-design at Noroff School of Technology and Digital Media.
 
