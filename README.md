@@ -24,7 +24,7 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,git,github,vscode&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,git,github,react,vscode&perline=4&theme=dark)](https://skillicons.dev)
 
 ## A little bit about my interests
 
