@@ -14,9 +14,9 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/martine-reppesgård-karlsen-166471229)
 
-## Take a look at my portfolio (Spring 2026)
+## Portfolio - Spring 2026
 
-[![Click here to view my portfolio](https://martinekarlsen-portfolio2.netlify.app/)]
+[![Portfolio](https://shields.io)](https://martinekarlsen-portfolio2.netlify.app/)
 
 ### Deployment status:
 
