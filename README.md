@@ -14,9 +14,13 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/martine-reppesgård-karlsen-166471229)
 
-## Take a look at my portfolio (Spring 2025)
+## Take a look at my portfolio (Spring 2026)
 
-[![Click here to view my portfolio](./portfolioPreview.gif)](https://martir2109.github.io/MartineKarlsen_portfolio/)
+[![Click here to view my portfolio](https://martinekarlsen-portfolio2.netlify.app/)]
+
+### Deployment status:
+
+![Netlify Status](https://api.netlify.com/api/v1/badges/cb19b6b2-2a99-4aed-a799-86e07dd3db28/deploy-status)
 
 ## Languages and Tools
 
@@ -33,26 +37,4 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 ## My GitHub History
 
-<a href="https://github.com/martir2109/github-readme-stats">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=dark" />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=default" />
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=default" />
-  </picture>
-</a>
-
-<a href="https://github.com/martir2109/github-readme-stats">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&layout=compact&theme=dark" />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&layout=compact&theme=default" />
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&layout=compact&theme=default" />
-  </picture>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=martir2109&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
