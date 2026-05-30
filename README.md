@@ -6,9 +6,9 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 📚 I am currently in my final year of the Frontend-development at Noroff School of Technology and Digital Media.
 
-🎓 I have completed a 1 year study within UX-design at Noroff School of Technology and Digital Media.
+🎓 1-year study in UX Design, Noroff School of Technology and Digital Media.
 
-🎓 I have a previously completed a Bachelors degree in Applied Computer Technology from OsloMet.
+🎓 Bachelor's degree in Applied Computer Technology, OsloMet.
 
 ## Socials
 
@@ -29,12 +29,18 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 ## A little bit about my interests
 
 🕹️ I love playing video games, especially The Last of Us 1 and 2. You'll find me playing these two games multiple times a year.
+<br/>
+
 ![Gif of Ellie and Joel from the game The Last of Us 1](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyY3dteXAwOXhpamVzbWxyeml6dDBnYmQxZXNqNTNwOWw1eW0waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t5upbzp8awDW1IpCXy/giphy.gif)
 
 🏃🏼‍♀️ During the past year, I've taken up an interest in running.
 
-🧶 I love getting creative and picking up new skills. I enjoy crocheting and sewing in my free time. I also love building LEGO.
+🧶 I love getting creative and picking up new skills. I enjoy crocheting, knitting and sewing in my free time. I also love building LEGO.
 
-## My GitHub History
+## GitHub History
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=martir2109&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martir2109&show_icons=true&theme=tokyonight)
