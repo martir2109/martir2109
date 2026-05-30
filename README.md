@@ -16,7 +16,7 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 ## Portfolio - Spring 2026
 
-[![Portfolio](https://shields.io)](https://martinekarlsen-portfolio2.netlify.app/)
+→ [View live portfolio](https://martinekarlsen-portfolio2.netlify.app/)
 
 ### Deployment status:
 
