@@ -16,7 +16,7 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 ## Portfolio - Spring 2026
 
-→ [View live portfolio](https://martinekarlsen-portfolio2.netlify.app/)
+[![Live demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blueviolet?style=for-the-badge)](https://martinekarlsen-portfolio2.netlify.app/)
 
 ### Deployment status:
 
@@ -24,7 +24,7 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,git,github,react,vscode&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,git,github,react,vscode&perline=9&theme=dark)](https://skillicons.dev)
 
 ## A little bit about my interests
 
@@ -43,4 +43,4 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 ## GitHub top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&theme=tokyonight)
