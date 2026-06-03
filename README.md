@@ -41,6 +41,10 @@ My name is Martine! I am 24 years old from Oslo, Norway🇳🇴.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=martir2109&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+## GitHub activity graph latest 31 days
+
+[![Martir2109's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=martir2109&theme=xcode)](https://github.com/martir2109/github-readme-activity-graph)
+
 ## GitHub top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martir2109&theme=tokyonight)
